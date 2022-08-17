@@ -1,3 +1,3 @@
-# Node.js Template
+# RakNet for TypeScript.
 
-This is a template for all node-js packages created by MFDLABS.
+This repository aims to provide a client and server utility for interacting with RakNet in TypeScript.
